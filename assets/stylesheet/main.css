@@ -94,6 +94,7 @@ h1{
   list-style-type: circle;
   list-style-position: inside;
   padding: 0.2em 0;
+  text-align: left;
 }
 .section3 h3{
   font-size: 3em;

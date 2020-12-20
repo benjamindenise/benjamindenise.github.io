@@ -1,6 +1,6 @@
 @font-face{
   font-family: "alycidon";
-  src: url("../fonts/alycidon.otf");
+  src: url("https://benjamindenise.github.io/assets/fonts/alycidon.otf");
 }
 
 html, body{
@@ -10,7 +10,7 @@ html, body{
 }
 
 body{
-  background-image: url("../images/Groupe1.jpg");
+  background-image: url("https://benjamindenise.github.io/assets/images/Groupe1.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -80,7 +80,7 @@ h1{
   min-height: 100%;
 }
 .section3 div{
-  text-align: justify;
+  text-align: left;
   width: 90%;
   margin: 0 auto;
 }
@@ -183,6 +183,7 @@ footer{
   .section3 div{
     max-width: 900px;
     font-size: 0.5em;
+    text-align: justify;
     
   }
     

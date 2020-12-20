@@ -92,7 +92,8 @@ h1{
 }
 .section3 li{
   list-style-type: circle;
-  list-style-position: inside;
+  list-style-position: outside;
+  margin-left: 40px;
   padding: 0.2em 0;
   text-align: left;
 }

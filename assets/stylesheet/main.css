@@ -101,6 +101,30 @@ h1{
   font-weight: bold;
   line-height: 1.2em;
 }
+.section4{
+  background-color: rgb(16, 5, 15);
+  color: #e2c099;
+  line-height: 2em;
+  padding: 15% 0; 
+  text-align: center;
+}
+.section4 p{
+  font-weight: bold;
+  font-size: 1.5em;
+  line-height: 2em;
+}
+.section4 a{
+  text-decoration: none;
+  margin: 5px 0;
+  font-weight: bold;
+}
+.section4 img, .section4 b{
+  vertical-align: middle;
+  margin: 0 5px;
+}
+.section4 img{
+    width: 24px;
+}
 
 footer{
   text-align: center;
